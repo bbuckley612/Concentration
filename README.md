@@ -1,7 +1,9 @@
 # Concentration Xcode/Swift Project
 <b>PVRHSD 2019-20: Mrs. Ricca's Advanced Topics in Computer Science Class</b>
 
-https://drive.google.com/file/d/1u-b4agSQqKBROU5dTKryHz6nwdqDWS8G/view
+Project Details: <a href="https://drive.google.com/file/d/1u-b4agSQqKBROU5dTKryHz6nwdqDWS8G/view" target="_blank">https://drive.google.com/file/d/1u-b4agSQqKBROU5dTKryHz6nwdqDWS8G/view</a>
+<br>
+Project Walkthrough (Video 1 & 2): <a href="https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq" target="_blank">https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq</a>
 
 <br>
 
